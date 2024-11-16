@@ -1,0 +1,57 @@
+*{
+    font-family: serif;
+    margin: auto;
+}
+
+header{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 30;
+    padding: 10px;
+}
+
+.m-1{
+    background-color: mistyrose;
+    height: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: solid 1px crimson;
+}
+
+.m-1 img{
+    float: left;
+    height: 100%;
+}
+
+.wyr{
+    display: flex;
+}
+
+div{
+    background-color: snow;
+    height: 450px;
+    width: 21%;
+    margin: 1%;
+    text-align: center;
+    border: solid 1px crimson;
+}
+
+footer{
+    background-color: crimson;
+    color: white;
+}
+
+h4{
+    font-size: 180%;
+    text-align: center;
+    color: crimson;
+}
+
+a{
+    color: white;
+}

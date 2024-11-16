@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    background-color: rgb(77, 77, 77);
+}
+
+#upper{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(44, 141, 169);
+    display: flex;
+    align-items: center;
+}
+
+#u-left{
+    width: 25%;
+}
+
+#u-left img{
+    height: 150px;
+}
+
+#u-mid{
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+}
+
+#u-right{
+    width: 25%;
+    text-align: right;
+    font-size: medium;
+}
+
+#u-right{
+    padding-right: 2%;
+}
