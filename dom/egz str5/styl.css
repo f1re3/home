@@ -30,6 +30,7 @@ header{
 
 .wyr{
     display: flex;
+    flex-wrap: wrap;
 }
 
 div{
